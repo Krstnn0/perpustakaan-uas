@@ -14,8 +14,10 @@
                     <h3>Sistem Informasi Perpustakaan</h3>
                 </div>
                 <div class="card-body text-center">
-                    <a href="buku/index.php" class="btn btn-success btn-lg mb-3 d-block">📚 Kelola Data Buku</a>
-                    <a href="anggota/index.php" class="btn btn-info btn-lg d-block">👤 Kelola Data Anggota</a>
+                    <a href="buku/index.php" class="btn btn-success btn-lg mb-2 d-block">📚 Kelola Data Buku</a>
+                    <a href="anggota/index.php" class="btn btn-info btn-lg mb-2 d-block">👤 Kelola Data Anggota</a>
+                    <a href="peminjaman/index.php" class="btn btn-warning btn-lg mb-2 d-block">📋 Kelola Peminjaman</a>
+                    <a href="#" class="btn btn-secondary btn-lg d-block">📊 Laporan & Stok</a>
                 </div>
             </div>
         </div>
